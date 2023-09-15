@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+.fonte-1{
+    font-family: 'Oswald', sans-serif;
+    color:red;
+}
+
+.fonte-2{
+    font-family: 'Luxurious Script', cursive;
+    font-size: 30px;
+    color:rgb(21, 182, 21);
+}
+
+.fonte-3{
+    font-family: 'Instrument Serif', serif;
+    font-size: 30px;
+    color:rgba(16, 114, 241, 0.966);
+  
+}
+
+.fonte-4{
+    font-family: 'Space Mono', monospace;
+    font-size: 30px;
+    color:black;
+}
+
+.fonte-5{
+    font-family: 'Nosifer', cursive;
+    font-size: 30px;
+    color:indianred;
+}
+
+.fonte-0{
+    font-family: 'Russo One', sans-serif;
+    font-size: 40px;
+}
