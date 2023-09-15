@@ -5,6 +5,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
 
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    text-align: center;
+}
+.caixa1{
+ 
+}
+
+
 .fonte-1{
     font-family: 'Oswald', sans-serif;
     color:red;
@@ -26,7 +38,7 @@
 .fonte-4{
     font-family: 'Space Mono', monospace;
     font-size: 30px;
-    color:black;
+    color:bisque;
 }
 
 .fonte-5{
@@ -37,5 +49,6 @@
 
 .fonte-0{
     font-family: 'Russo One', sans-serif;
+    color: goldenrod;
     font-size: 40px;
 }
